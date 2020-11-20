@@ -14,6 +14,11 @@
       src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MohammedAl-Rowad&repo=pollux&theme=material-palenight"
       width="100%"
 />
+  <img 
+      align="center" 
+      src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MohammedAl-Rowad&repo=Erela&theme=material-palenight"
+      width="100%"
+/>
 </a>
 <img 
    align="center" 
