@@ -14,14 +14,16 @@
 />
 
 - 📈 [A dashboard with my github stats](https://mohammedal-rowad.github.io/vexpest_V2/#/dashboard/MohammedAl-rowad)
-- 🌐 [my website](https://mohammedal-rowad.github.io/me/)
+- 🌐 [My website](https://mohammedal-rowad.github.io/me/)
 - 💡 pollux: **A drag and drop UI for creating fake JSON data** [video](https://youtu.be/4Kwv98RDoSM) - [link](https://mohammedal-rowad.github.io/pollux/)
 - 💡 Vexpest: a github dashboard generator - [link](https://mohammedal-rowad.github.io/vexpest_V2/#/)
     - 💫 facebook Vexpest dashboard [link](https://mohammedal-rowad.github.io/vexpest_V2/#/dashboard/facebook)
     - 💫 google Vexpest dashboard [link](https://mohammedal-rowad.github.io/vexpest_V2/#/dashboard/google)
 
 
+<!--
 ## Stuff I work with
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-172f45?logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-172f45?logo=TypeScript)
@@ -36,4 +38,4 @@
 ![redux](https://img.shields.io/badge/redux-172f45?logo=redux)
 ![angular](https://img.shields.io/badge/angular-172f45?logo=angular)
 
-
+!-->
