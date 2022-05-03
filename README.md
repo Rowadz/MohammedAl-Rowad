@@ -1,19 +1,19 @@
-<h3 align="center">Rowadz</h3>
+<h3 align="center">Hi I'm Mohammad I usually go with [Rowadz]</h3>
 
 <p align="center">
-  <a href="https://mohammedal-rowad.github.io/me/">Personal Site</a> •
+  <a href="https://rowadz.com/">Personal Site</a> •
   <a href="https://www.youtube.com/channel/UC1Uw_GN4sodGisimwZNzMoA">Youtube</a> •
   <a href="https://www.linkedin.com/in/mohammed-al-rowad/">LinkedIn</a>
 </p>
 
-
+<!--
 
 <img 
   align="right"
   src="https://github-readme-stats.vercel.app/api?username=MohammedAl-rowad&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&langs_count=true"
 />
+-->
 
-- 🌐 [My website](https://rowadz.com/)
 - 💡 pollux: **A drag and drop UI for creating fake JSON data** [video](https://youtu.be/4Kwv98RDoSM) - [link](https://mohammedal-rowad.github.io/pollux/)
 - 💡 Vexpest: a github dashboard generator - [link](https://mohammedal-rowad.github.io/vexpest_V2/#/)
 
