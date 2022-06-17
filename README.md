@@ -16,7 +16,7 @@
 
 Some projects I built
 - 💡 [pollux](https://mohammedal-rowad.github.io/pollux/): **A drag and drop website for mocking RESTFUL APIs, GraphQL APIs and fake data in various formats** => [video](https://youtu.be/4Kwv98RDoSM)
-- 🌑 [Falak](https://github.com/MohammedAl-Rowad/Falak): A real-time dashboard for CRUD operations that happened in MySQL.
+- 🌑 [Falak](https://github.com/MohammedAl-Rowad/Falak): A real-time nodejs server for CRUD operations that happened in MySQL (it monitors the binary logs and emit web socket events of the changes).
 - 💡 [Erela](https://mohammedal-rowad.github.io/Erela/#/): TypeScript / Nodejs framework for creating simple APIs ( supports DB migrations - DI - routing controls).
 - 💡 [Vexpest](https://mohammedal-rowad.github.io/vexpest_V2/#/): a github dashboard generator.
 
